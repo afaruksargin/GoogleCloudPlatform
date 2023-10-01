@@ -1,1 +1,2 @@
 # GoogleCloudPlatform
+#kıral faruk
